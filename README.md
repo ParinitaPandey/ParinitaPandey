@@ -7,6 +7,6 @@
       <br><em>learning new things</em> and create cool stuff from it although I am still noob.
     <br>
     <img src="https://i.imgur.com/VP9QIDJ.gif" width="200px" height="200px" align="center">
-    <br><br>:pizza: Take a look at my stats :P<br><br>
+<!--     <br><br>:pizza: Take a look at my stats :P<br><br> -->
   </samp>
 </p>
