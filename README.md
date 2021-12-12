@@ -4,7 +4,7 @@
   <samp>
     :wave: Hey! Welcome to my profile
     <br>I am a student of  B.TECH CS  who loves
-      <br><em>learning new things</em> and create cool stuff from it although I am still noob.
+      <br><em>learning new things</em> and create cool stuff from it. 
     <br>
     <img src="https://i.imgur.com/VP9QIDJ.gif" width="200px" height="200px" align="center">
 <!--     <br><br>:pizza: Take a look at my stats :P<br><br> -->
